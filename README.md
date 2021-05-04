@@ -5,5 +5,3 @@ Tech Stack:
     Express JS
     React JS
     React Native
-# chat-app-webrtc
-# chat-app-webrtc
